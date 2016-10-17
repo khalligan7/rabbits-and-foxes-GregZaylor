@@ -67,6 +67,7 @@
 # In[1]:
 
 # get_ipython().magic(u'matplotlib inline')
+print('Luke I am your father')
 import numpy as np
 from matplotlib import pyplot as plt
 k1 = 0.015
